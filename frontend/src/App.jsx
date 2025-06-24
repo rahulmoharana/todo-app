@@ -9,7 +9,7 @@ import { SplitText } from "gsap/SplitText";
 
 
 import './App.css'
-const API = 'http://localhost:5000/api/todos'
+const API = 'https://todo-app-d65n.onrender.com'
 
 gsap.registerPlugin(useGSAP,SplitText);
 
